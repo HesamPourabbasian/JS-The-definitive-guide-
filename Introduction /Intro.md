@@ -1,6 +1,6 @@
 JavaScript is the programming language of the web and is
 used by more software developers today than any other
-programming language. For nearly 25 years this best seller
+programming language. For nearly 25 years this bestseller
 has been the go-to guide for JavaScript programmers, and this
 new edition has been fully updated to cover the 2020 version
 of JavaScript. You'll find engaging and illuminating example
