@@ -42,7 +42,6 @@ If you find these notes helpful, feel free to fork or star ⭐ — but please su
 | 21     | Workers and WebAssembly                        | [`21-workers-wasm`](./21-workers-wasm) |
 | 22     | Node.js                                        | [`22-node`](./22-node)             |
 
-*(Status: ✅ Done | 🔄 In progress | ⏳ Not started)*
 
 ---
 
