@@ -1,5 +1,4 @@
 # JavaScript: The Definitive Guide – Personal Learning Notes
-![JavaScript: The Definitive Guide Cover](https://learning.oreilly.com/cover-images/9781098139087.jpg)
 
 > **Book**: *JavaScript: The Definitive Guide, 7th Edition*  
 > **Author**: David Flanagan  
